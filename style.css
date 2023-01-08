@@ -1,0 +1,18 @@
+/* body {
+    color: #f7f7f7;
+  } */
+  
+  
+  
+  .changeTheme {
+    background: #1D1E22;
+    color: #eee;
+  }
+  
+  .jumbotron {
+    background-image: url("../images/image1.jpg");
+    
+    text-align: center; 
+    color: white ;
+  }
+  
